@@ -1,3 +1,8 @@
 esptool
 esptool.exe
 build/
+
+# gtags相关文件
+GPATH
+GRTAGS
+GTAGS
